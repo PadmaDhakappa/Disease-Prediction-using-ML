@@ -45,7 +45,7 @@ Follow these steps to set up the project on your local machine:
 
 ## Project Structure
 Disease-Prediction-using-ML/
-- **diabetes.csv**               - **Diabetes dataset**
+- **diabetes.csv**               - **(Diabetes dataset)**
 - **heart.csv**                  - **Heart disease dataset**
 - **parkinsons.csv**             - **Parkinson's disease dataset**
 - **diabetes_model.pkl**         - **Trained diabetes prediction model**
