@@ -45,15 +45,15 @@ Follow these steps to set up the project on your local machine:
 
 ## Project Structure
 Disease-Prediction-using-ML/
-├── diabetes.csv               # Diabetes dataset
-├── heart.csv                  # Heart disease dataset
-├── parkinsons.csv             # Parkinson's disease dataset
-├── diabetes_model.pkl         # Trained diabetes prediction model
-├── heart_model.pkl            # Trained heart disease prediction model
-├── parkinsons_model.pkl       # Trained Parkinson's prediction model
-├── main.py                    # Streamlit app entry point
-├── requirements.txt           # Python dependencies
-├── README.md                  # Project documentation
+- **diabetes.csv**               # Diabetes dataset
+- **heart.csv**                  # Heart disease dataset
+- **parkinsons.csv**             # Parkinson's disease dataset
+- **diabetes_model.pkl**         # Trained diabetes prediction model
+- **heart_model.pkl**            # Trained heart disease prediction model
+- **parkinsons_model.pkl**       # Trained Parkinson's prediction model
+- **main.py**                    # Streamlit app entry point
+- **requirements.txt**           # Python dependencies
+- **README.md**                  # Project documentation
 
 
 ## Usage Instructions
