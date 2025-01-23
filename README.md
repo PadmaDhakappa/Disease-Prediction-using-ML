@@ -51,7 +51,7 @@ Disease-Prediction-using-ML/
 - **diabetes_model.pkl**         - **(Trained diabetes prediction model)**
 - **heart_model.pkl**            - **(Trained heart disease prediction model)**
 - **parkinsons_model.pkl**       - **(Trained Parkinson's prediction model)**
-- **main.py**                    - **(Streamlit app entry point)**
+- **disease.py**                    - **(Streamlit app entry point)**
 - **requirements.txt**           - **(Python dependencies)**
 - **README.md**                  - **(Project documentation)**
 
